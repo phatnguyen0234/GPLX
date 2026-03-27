@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">GPLX - Ôn Thi Bằng Lái Xe</string>
+
+    <!-- Main Activity -->
+    <string name="welcome_message">Xin chào</string>
+    <string name="welcome_subtitle">Hãy ôn tập ngay nào!</string>
+    <string name="search_hint">Tìm kiếm...</string>
+
+    <!-- Question Activities -->
+    <string name="question_topic">Tên chủ đề</string>
+    <string name="submit_answer">Nộp bài</string>
+    <string name="check_answer">Kiểm tra</string>
+    <string name="previous_question">Câu trước</string>
+    <string name="next_question">Câu sau</string>
+
+    <!-- Lobby Activity -->
+    <string name="question_info_title">Thông tin bộ câu hỏi</string>
+    <string name="instructions_title">Hướng dẫn</string>
+    <string name="question_range_description">Đầu tiên, nhập câu hỏi bắt đầu và kết thúc mà bạn muốn ôn tập.</string>
+    <string name="start_range_hint">Bắt đầu</string>
+    <string name="end_range_hint">Kết thúc</string>
+    <string name="range_separator">đến</string>
+    <string name="select_all">Chọn tất cả</string>
+    <string name="practice_mode_description">Tiếp theo, chọn hình thức ôn tập.</string>
+    <string name="show_answer_immediately">Xem đáp án ngay lập tức</string>
+    <string name="show_answer_after_completion">Xem đáp án sau khi hoàn thành bài thi</string>
+    <string name="start_practice">Bắt đầu</string>
+
+    <!-- Common -->
+    <string name="ok">OK</string>
+    <string name="cancel">Hủy</string>
+    <string name="back">Quay lại</string>
+    <string name="continue_text">Tiếp tục</string>
+    
+    <!-- Navigation Drawer -->
+    <string name="navigation_drawer_open">Mở menu</string>
+    <string name="navigation_drawer_close">Đóng menu</string>
+    <string name="nav_dashboard">Trang chủ</string>
+    <string name="nav_topic">Ôn theo chủ đề</string>
+    <string name="nav_level">Thi thử</string>
+    <string name="nav_bookmarks">Câu hỏi đã đánh dấu</string>
+    <string name="nav_history">Lịch sử làm bài</string>
+    <string name="nav_leaderboard">Bảng xếp hạng</string>
+    <string name="nav_settings">Cài đặt</string>
+    
+    <!-- Bottom Navigation -->
+    <string name="bottom_nav_home">Trang chủ</string>
+    <string name="bottom_nav_practice">Luyện tập</string>
+    <string name="bottom_nav_mock">Thi thử</string>
+    <string name="bottom_nav_ai">Ôn AI</string>
+    <string name="fab_quick_exam">Thi nhanh</string>
+    
+    <!-- Accessibility -->
+    <string name="nav_back">Quay lại</string>
+    <string name="bookmark">Đánh dấu</string>
+    <string name="content_desc_back_button">Quay lại</string>
+    <string name="content_desc_home_button">Về trang chủ</string>
+    <string name="content_desc_menu_button">Mở menu</string>
+    <string name="content_desc_search">Tìm kiếm</string>
+    <string name="content_desc_question_image">Hình ảnh câu hỏi</string>
+    <string name="content_desc_correct_answer">Đáp án đúng</string>
+    <string name="content_desc_wrong_answer">Đáp án sai</string>
+    <string name="content_desc_bookmark">Đánh dấu câu hỏi</string>
+    <string name="content_desc_chart">Biểu đồ thống kê</string>
+    <string name="content_desc_avatar">Ảnh đại diện người dùng</string>
+    <string name="content_desc_empty_state">Danh sách trống</string>
+</resources>

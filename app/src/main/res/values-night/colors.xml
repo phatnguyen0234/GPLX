@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Nomadstay Design System - Dark Mode Background & Surface -->
+    <color name="color_background">#121212</color>
+    <color name="color_surface">#1E1E1E</color>
+    <color name="color_surface_soft">#2C2C2C</color>
+    
+    <!-- Legacy background colors -->
+    <color name="background_primary">@color/color_background</color>
+    <color name="background_secondary">@color/color_surface_soft</color>
+    <color name="card_background">@color/color_surface</color>
+    <color name="card_background_dark">@color/color_surface_soft</color>
+
+    <!-- Nomadstay Design System - Dark Mode Text -->
+    <color name="color_text_primary">#E0E0E0</color>
+    <color name="color_text_secondary">#B0B0B0</color>
+    <color name="color_text_muted">#808080</color>
+    
+    <!-- Legacy text colors -->
+    <color name="text_primary">@color/color_text_primary</color>
+    <color name="text_secondary">@color/color_text_secondary</color>
+    <color name="text_light">@color/color_text_muted</color>
+    <color name="text_on_dark">#FFFFFF</color>
+    <color name="text_link">#60A5FA</color>
+
+    <!-- Primary Accent (Orange - same in dark mode) -->
+    <color name="color_primary">#F97316</color>
+    <color name="color_primary_variant">#FB923C</color>
+    <color name="color_on_primary">#FFFFFF</color>
+    
+    <!-- Legacy primary colors -->
+    <color name="primary_dark">@color/color_primary</color>
+    <color name="secondary_blue">@color/color_primary_variant</color>
+    <color name="accent_teal">@color/color_primary</color>
+
+    <!-- Dark Hero Card (slightly lighter in dark mode) -->
+    <color name="color_hero_bg">#111827</color>
+    <color name="color_on_hero">#FFFFFF</color>
+
+    <!-- Outline & Divider (darker in dark mode) -->
+    <color name="color_outline">#3A3A3A</color>
+    <color name="color_divider">#424242</color>
+
+    <!-- State Colors (same in dark mode) -->
+    <color name="color_success">#16A34A</color>
+    <color name="color_warning">#F59E0B</color>
+    <color name="color_error">#DC2626</color>
+    <color name="color_info">#38BDF8</color>
+
+    <!-- Gradient colors -->
+    <color name="gradient_start">@color/color_primary</color>
+    <color name="gradient_end">@color/color_primary_variant</color>
+
+    <!-- Button colors -->
+    <color name="button_primary">@color/color_primary</color>
+    <color name="button_primary_pressed">#EA580C</color>
+    <color name="button_primary_disabled">#66F97316</color>
+    <color name="button_secondary">@color/color_primary_variant</color>
+    <color name="button_secondary_pressed">#F97316</color>
+    <color name="button_secondary_disabled">#66FB923C</color>
+    <color name="button_outline_stroke">@color/color_primary</color>
+    <color name="button_outline_stroke_disabled">#66F97316</color>
+
+    <color name="button_text">@color/color_on_primary</color>
+    <color name="button_text_secondary">@color/color_on_primary</color>
+    <color name="button_text_outline">@color/color_primary</color>
+
+    <!-- Ripple colors -->
+    <color name="ripple_primary">#33F97316</color>
+    <color name="ripple_secondary">#33FB923C</color>
+    <color name="ripple_outline">#33FFFFFF</color>
+
+    <!-- Answer colors -->
+    <color name="answer_correct">@color/color_success</color>
+    <color name="answer_correct_light">#1A3A2E</color>
+    <color name="answer_incorrect">@color/color_error</color>
+    <color name="answer_incorrect_light">#3A1A1A</color>
+    <color name="answer_selected">@color/color_primary</color>
+    <color name="answer_selected_light">#3A2A1A</color>
+    <color name="answer_text_correct">#4ADE80</color>
+    <color name="answer_text_incorrect">#F87171</color>
+    <color name="answer_text_selected">@color/color_text_primary</color>
+</resources>
+
